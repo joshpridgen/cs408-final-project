@@ -1,11 +1,18 @@
 # Web Dev Starter Code
 
-## Project Spec
+## Overview
 
-TODO: Write a project spec
+This project is a simple web-based personal tracker application. It allows users to manage entries categorized as "Health" or "Financial." Users can add, view, and delete entries, with data stored and retrieved from a backend API.
 
-## Project Wireframe
+## Sources and Credits
 
-TODO: Replace the wireframe below with you own design.
+The following resources were used in this project:
 
-![wireframe](wireframe-example.png)
+- **Stackoverflow**: https://stackoverflow.com/questions/55438000/how-to-return-json-from-callback-function-within-the-lambda (Plus many other stackoverflow links that I have not found haha)
+- **API Gateway**: AWS API Gateway for backend integration
+
+
+## How to Run
+
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in a browser or use the recommended **Live Server** extension in VS Code.
